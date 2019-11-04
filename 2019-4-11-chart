@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>The Black Parade</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <link href='https://fonts.googleapis.com/css?family=Abhaya Libre' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Advent Pro' rel='stylesheet'>
+
+<style>
+body {font-family: "Lato", sans-serif}
+ h2 {font-family: 'Eater';font-size: 40px;
+   text-shadow: 2px 2px #ff0000;}
+   body, html {
+  height: 100%;
+  font-family: "Inconsolata", sans-serif;
+}
+
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: url("My-Chemical-Romance-1.jpg");
+  min-height: 75%;
+}
+
+.menu {
+  display: none;
+}
+</style>
+<body>
+
+</style>
+<body>
+
+
+<header class="bgimg w3-display-container w3-grayscale-min" id="home">
+  <div class="w3-display-bottomleft w3-center w3-padding-large w3-hide-small">
+   
+  </div>
+  <div class="w3-display-middle w3-center">
+    <span class="w3-text-white" style="font-size:90px"></span>
+  </div>
+  <div class="w3-display-bottomright w3-center w3-padding-large">
+    <span class="w3-text-white">4th November 2019</span>
+  </div>
+</header>
+
+  <!-- The Band Section -->
+  <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
+    <h2 class="w3-wide">Best albums of 2019</h2>
+   
+    <img src="blackparade.jpg" alt="logo" height="120" border="4"/>
+    <p class="w3-justify"> The Black Parade is album by My Chemical Romance released in 2006. It was produced by Rob Cavallo. <br>
+    The album debuted at number two on both the Billboard 200 and the UK Albums Chart <br> 
+    and is also certified as Triple Platinum by the RIAA.
+    I never took a chance to listen anything from this band. So I just went to Spotify and<br> 
+      I choose this album to listen. I loved every song on it. Melodically, vocally <br>
+      and lyrically this album is awesome. I literally didn’t skipped any song.<br>
+My favorite track on this album is The End. “If you look in the mirror and don't like what you see<br>
+You can find out, first hand, what it's like to be me”<br>
+He is talking about struggle with self confidence and the feeling of being an outsider. He is showing sympathy <Br>
+      and relation to those who aren’t confident in themselves and their bodies.>Br>
+
+Another favorite track is Teenagers. The song was written by Gerard when he was on a subway and<Br>
+      had a panic attack because there were so many teenagers riding on it as well.<BR>
+      When guitarist Frank Iero heard the song for the first time, he thought it was a joke<Br>
+    </p>
+
+ 
+
+
+</body>
+</html>
+
